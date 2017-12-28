@@ -1,0 +1,3 @@
+tests/dsmlclasses/
+venv/
+*.pyc
